@@ -2,7 +2,9 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+Created on Wed Aug  18 21:49:40 2021
+
+@author: rayushkasud
 """
 
 import mediapipe as mp
